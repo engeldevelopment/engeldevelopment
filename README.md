@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**engeldevelopment/engeldevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i? 🙂
 
-Here are some ideas to get you started:
+My name is **Engel Pinto**, I'm a Web Developer (Pythoneer) 🏗️, i can help you to build your website for your 🏢 business, enterprise, etc.
+I have experience in the below tecnologies 💻:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍.  
+- Java ☕.  
+- Javascript.  
+- Ruby.
+- Django.
+- Php 🐘. 
+
+I love 😍 all things about agile techniques and methodologies like **TDD**, **BDD**, **Pair programming**, **SCRUM**, **CI/CD**, **Clean Code**, **Refactorings**, etc. I confess that I cannot live without TDD and CI/CD 😄.
+
+I love software development 💗 so much that I am able to work for free (seriously, I love it 😍).
