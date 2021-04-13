@@ -32,3 +32,4 @@ I love software development 💗 so much that I am able to work for free (seriou
 ## Contact information ℹ️  
 
 - [x] 📱 (+58) 0416 496.24.62
+- [x] ✉️ engeljavierpinto@gmail.com
