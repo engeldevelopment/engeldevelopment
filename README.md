@@ -6,11 +6,13 @@ My name is **Engel Pinto**, I'm a Web Developer (Pythoneer) 🏗️, i can help 
 I have experience in the below tecnologies 💻:  
 
 - [x] Python 🐍.  
-- [x] Java ☕.  
+- [x] Java ☕.
+- [x] Spring Boot  
 - [x] Javascript.  
 - [x] Ruby.
 - [x] Django.
-- [x] Php 🐘. 
+- [x] Php 🐘.
+- [x] Laravel
 
 I love 😍 all things about agile techniques and methodologies like **TDD**, **BDD**, **Pair programming**, **SCRUM**, **CI/CD**, **Clean Code**, **Refactorings**, etc. I confess that I cannot live without TDD and CI/CD 😄.
 
