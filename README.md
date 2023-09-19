@@ -13,6 +13,7 @@ I have experience in the below tecnologies 💻:
 - [x] Django.
 - [x] Php 🐘.
 - [x] Laravel
+- [x] Docker
 
 I love 😍 all things about agile techniques and methodologies like **TDD**, **BDD**, **Pair programming**, **SCRUM**, **CI/CD**, **Clean Code**, **Refactorings**, etc. I confess that I cannot live without TDD and CI/CD 😄.
 
